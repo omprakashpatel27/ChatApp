@@ -1,1 +1,1 @@
-Website link https://chatwithfriendsds.herokuapp.com/
+https://chatwithfriendsds.herokuapp.com/ ( Desktop preferable )
